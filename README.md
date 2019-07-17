@@ -1,15 +1,14 @@
-#Words-and-Bits keys to mnemonic words converter
+#Top Level Domain Checker
 
-This is a package to convert hard to type key information
-into mnemonic words list.
-
+This package allows you to check the email addresses and the urls to have
+valid top level domains (TLDs) from IANA. 
 
 ## Installation
 
 From npmjs:
 
 ```
-npm install words-and-bits --save
+npm install tldcheck --save
 ```
 
 ## Developer Setup

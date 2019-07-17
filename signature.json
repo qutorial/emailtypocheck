@@ -1,0 +1,55 @@
+{
+  "version": "v1alpha",
+  "files": [
+    {
+      "path": "Makefile",
+      "sha512": "c99fecad037957eb4b8cddb630f5d7ba4fe9c0e70739bbf7046507fdace2df027a41ebd599de2a261e7afb3fd54575ae309d8a0c6fa6854445457c87c302f256"
+    },
+    {
+      "path": "test/test.js",
+      "sha512": "cca30a679345a16b1cdb5ac7577ff6ee7f2b7ef76ec74fc31627bfddb8a5de43182556b51745a99a58234a0ce5c0e8c67d2f6345b197d4c91912049aece0f8b1"
+    },
+    {
+      "path": "dist/tldcheck.js",
+      "sha512": "1b514b7f39b3d9164d730be3150724ddffe3d2abf6dcbd0bbc9d764a026fa67414e13845fae106e41d91e6b357205664c7be5ca2a64f9512096f65b8165cc0bd"
+    },
+    {
+      "path": "dist/tlds.js",
+      "sha512": "aa57b481c8096aad0953c994f274db898cad9486b32709145224347d9a9644737e0c91779250367f7c4e7c3bfd63248ef2524fc33410605231baf296547e9c1f"
+    },
+    {
+      "path": "package.json",
+      "sha512": "56eb914fc25370a6ddb0f92d6844deb749a70188446de7f0fe58827ce44dc5f6634a3e1cbcd958b3dad02fe48777bd7cf41ccd1ee9353207c14a1f1124c7f2c4"
+    },
+    {
+      "path": "tsconfig.json",
+      "sha512": "8a2ae05d17bcf387ceda645a8b6d787659039f23e4da56c765a1c65d2ab17bc8361ff8310c43dd6eb0ed7af885f735072eac8e979d33bff2639ca5ac1db21cfa"
+    },
+    {
+      "path": "README.md",
+      "sha512": "9ec56270054e5fcd679169d63f660c3f92fc84d164876bcdc33d6659734bb7a1b56227921e0541b052b75f6ca254812c6a29ff990e81a592e92a8e92786ecc33"
+    },
+    {
+      "path": "scripts/get-tlds.py",
+      "sha512": "6335ff64c2d98d2046625a65182405909a072535d415166e011b1540bbca11a8d32cf81ccdaabc87938bb89868805a48897a47561ef755d967a305509b3968b8"
+    },
+    {
+      "path": "dist/tldcheck.d.ts",
+      "sha512": "7c0e517061b9f69a2103943bee72e97296b73bfb21395d426bc2cd24480e4c2581b8021e1ede6f2df741d89a3b454a041d6ef8183a062651fc1cf00667f16175"
+    },
+    {
+      "path": "src/tldcheck.ts",
+      "sha512": "fb8531a7a8dc21b043e79ab96f362b1166ab3093c5efb578cc06d80145aa431d9415a1bbaf879e379a4a2ff4e67ef48a8e4bdcbd45f9bc96646f70916addd1ab"
+    },
+    {
+      "path": "dist/tlds.d.ts",
+      "sha512": "523ac471cb7b1d23d9607d6f95f2cac6a78875211fd40d6bf7a07f671c143dded12d32bc0c373eff0d1213aeb416ac0a369ff79fb2134db0c04cda1400189de9"
+    },
+    {
+      "path": "src/tlds.ts",
+      "sha512": "4a4037e2bb43d3104a20ced66f2fb6006c2e6795163b39ca800ea77faaa22c19c43a16285b0a1aca4764e73c82b425089b7dfc734b1a363ee207a1d46abff96a"
+    }
+  ],
+  "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: OpenPGP.js v2.6.2\nComment: https://openpgpjs.org\n\nwsFcBAEBCAAQBQJdLy8CCRC2MzQPtt01LwAA2+MQAIgo+Zsj8voV7ispxKJH\nWRKI6reMqr+yLMReJHVISIQOaIw4QPViWVBAQpl/zRa2AKEn7rPpzVZ7ov5R\nui1tAM5dLIatVE5CRlqrZZKMHzveVOwXD5Cd+WTssKF4Cr+512uUg4PNLcvS\nQLV3xo6E4SXWQKt67faUF2lQkNQKFL38BGvOF/x056G2h4BRKm/Sf7YtjKLz\n59C1BdMlQFxJGhfpYNHgJmU9B8/snhhqh1u7YpuQvzn65uWOmEhQwD1205ji\nesKjGzY8XE5rzcC64vc170+ipA0q8D5FJuGzADj58PLklWB1O9F/66+fmCkQ\nJANam80CUCoG5Ax3JXBXlyoIKpjwWvthl0LzDUhsyovO9h8YWbvFYKZUO3/U\npWxSvql4rgppoGtLhfuxcNHhcDbYWC2u4A9ZHSmRCewPco4bBatbYrvCjEIS\n0sQ1sW76VT+fblL0bvhpuVmq96NpRjfTKbDyz7xk+BDUvWzZ2pZiD+1U8R8H\nCYVUDrD0Wx89JPXQVyL+A92ejZnpOi+Lqm4oRQmBM2bwJEb0o8q1o8jaW3y0\n6VldEgFsqsQTg0Ssvg/pZEwXWY3t6xPCTADUBWnanzuJofVmRl6mo/8bIT64\nSR/k5Nrv+mpsXDt5009sMrFH6HjCGsNcBz8Trl0sWeqKkCOEMNOKMVqGq4QH\njetL\n=tYB/\n-----END PGP SIGNATURE-----\n",
+  "identity": {}
+}
