@@ -17,10 +17,11 @@ describe('Basic function invocations', function () {
     });
 
     it('Correction cases', function () {
-        expect(etc.checkEmailTypos("test@gmsil.com")).to.eql(["test@gmail.com"]);
-        expect(etc.checkEmailTypos("test@gmail")).to.eql(["test@gmail.com"]);
-        expect(["test@googlemail.com"]).to.eql(etc.checkEmailTypos("test@Googlmail.com"));
+        expect(etc.checkEmailTypos("test@gmsil.com")).to.eql(["test@gmail.com", "test@googlemail.com"]);
+        expect(etc.checkEmailTypos("test@gmail")).to.eql(["test@gmail.com", "test@googlemail.com"]);
+        expect(etc.checkEmailTypos("test@Googlmail.com")).to.eql(["test@googlemail.com"]);
         expect(etc.checkEmailTypos("test@gmx")).to.eql(["test@gmx.de", "test@gmx.at", "test@gmx.net", "test@gmx.com"]);
+        expect(etc.checkEmailTypos("thomas@gxm.net")).to.eql(["thomas@gmx.net"]);
     });
 
 });

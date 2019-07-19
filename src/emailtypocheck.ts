@@ -21,7 +21,7 @@ export class EmailValidationError extends Error {
 
 let well_known_domains = ["gmx.de", "gmail.com", "t-online.de", "freenet.de", "yahoo.de",
 	"yahoo.com", "googlemail.com", "icloud.com", "apple.com", "1und1.de", "outlook.com", "web.de",
-	"gmx.at", "gmx.net", "gmx.com",]
+	"gmx.at", "gmx.net", "gmx.com"]
 
 let indexed = well_known_domains.map((value, index) => { return { index: index, domain: value } as Domain });
 
@@ -54,7 +54,7 @@ export function checkEmailTypos(email: string): string[] {
 	// Adjacency check here
 	const options: Fuse.FuseOptions<Domain> = {
 		keys: ['domain'],
-		threshold: 0.17,
+		threshold: 0.30,
 	};
 	const fuse = new Fuse(indexed, options);
 	const results = fuse.search(domain);
