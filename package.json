@@ -1,5 +1,5 @@
 {
-  "name": "",
+  "name": "emailtypocheck",
   "version": "1.0.0",
   "description": "Check top level domains for emails or URLs",
   "main": "dist/emailtypocheck.js",

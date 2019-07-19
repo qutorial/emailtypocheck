@@ -15,7 +15,7 @@ npm install emailtypocheck --save
 
 var etc = require('../dist/emailtypocheck.js');
 etc.checkEmailTypos("test@gmsil.com");
-// [gmail.com] - typo correction
+// [test@gmail.com] - typo correction
 tlds.checkEmailTypos("test@gmail.com");
 // [] - no typos
 
