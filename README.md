@@ -1,23 +1,23 @@
-# Top Level Domain Checker
+# Email Domain Typo Checker
 
-This package allows you to check the email addresses and the urls to have
-valid top level domains (TLDs) from IANA. 
+This package allows you to check the email addresses for typos in the domain names.
+
 
 ## Installation
 
 From npmjs:
 
 ```
-npm install tldcheck --save
+npm install emailtypocheck --save
 ```
 
 ## Usage 
 
-var tlds = require('../dist/tldcheck.js');
-tlds.checkTldEmail("test@hello.de");
-// true
-tlds.checkTldEmail("test@hello.dde");
-// false
+var etc = require('../dist/emailtypocheck.js');
+etc.checkEmailTypos("test@gmsil.com");
+// [gmail.com] - typo correction
+tlds.checkEmailTypos("test@gmail.com");
+// [] - no typos
 
 ## Developer Setup
 

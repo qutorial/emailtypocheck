@@ -1,16 +1,16 @@
 {
-  "name": "tldcheck",
+  "name": "",
   "version": "1.0.0",
   "description": "Check top level domains for emails or URLs",
-  "main": "dist/tldcheck.js",
-  "types": "dist/tldcheck.d.ts",
+  "main": "dist/emailtypocheck.js",
+  "types": "dist/emailtypocheck.d.ts",
   "scripts": {
     "test": "mocha",
     "build": "tsc"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/qutorial/tldcheck.git"
+    "url": "git+https://github.com/qutorial/emailtypocheck.git"
   },
   "keywords": [
     "Email",
@@ -21,11 +21,15 @@
   "author": "Zaur Molotnikov <qutorial@gmail.com> (https://molotnikov.de/)",
   "license": "ISC",
   "devDependencies": {
+    "chai": "^4.2.0",
     "mocha": "^6.1.4",
     "typescript": "^3.4.5"
   },
   "bugs": {
-    "url": "https://github.com/qutorial/tldcheck/issues"
+    "url": "https://github.com/qutorial/emailtypocheck/issues"
   },
-  "homepage": "https://github.com/qutorial/tldcheck#readme"
+  "homepage": "https://github.com/qutorial/emailtypocheck#readme",
+  "dependencies": {
+    "fuse.js": "^3.4.5"
+  }
 }
