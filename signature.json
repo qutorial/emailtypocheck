@@ -7,15 +7,15 @@
     },
     {
       "path": "dist/emailtypocheck.js",
-      "sha512": "1d7edbd4831d1beb8c92c69992632738a7da39f423a4ef6537740890b5cf5ec4cee010ef48fe3a76eb1ddedd5e7733d0a41c6b71d93e04ee406e0c7464f3adf1"
+      "sha512": "28e955644eb5f1c8b69c1a67afbc9b2402e60fbd07fb222928ededb9e79425892a1c07b042c04b52bf0586c494c933e500f544e46d184356abbfb0e1feedf9fe"
     },
     {
       "path": "test/test.js",
-      "sha512": "6c252bba90ac1600216f7262214c468b19e15e94d3bc6bcd88a2b9029b70d866c180a8852181cebadc9316823c0b856091b0a142073978f73e89e94b3bf1e365"
+      "sha512": "2ff88127865b4bbca404a71252608d11b02daca7c2af8ca9a713afae2508cb5e3cd0ab721d51c50db93b21323934737390f658d0d4ff796b4602cf36a178f0dc"
     },
     {
       "path": "package.json",
-      "sha512": "c6e7c8b135098f3fae07411edeffe06ad305f6b574f7adc26563edf8d9c45f096f7cb762f40a581b1d201671fc9c2d9e62faec70fc9547d5370a9cd9753516c6"
+      "sha512": "3d4ff0c814b9844d555e022233e10f2f53f25abc234940b04cec5ccec29058c8325762cbe019612b702b067dd9181a345556c34e596dba20780f2d31e57695e1"
     },
     {
       "path": "tsconfig.json",
@@ -31,9 +31,9 @@
     },
     {
       "path": "src/emailtypocheck.ts",
-      "sha512": "c30d238386255eaa53c4b9dd1f6f6f6abc0e1b53d1e7862cc886a177ca1126f58d740d72e6daa21527d913a82a5bd79a2eb962449b0c96cd09290930470d46e3"
+      "sha512": "f83e9e4bc8e90641c52b7d645709530c824a8a521a5d7013016e4dd87b9aced8b8d122a4973a5068f66e5d05a456b8603135b6b2685b43ae957b729381fbc876"
     }
   ],
-  "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: OpenPGP.js v2.6.2\nComment: https://openpgpjs.org\n\nwsFcBAEBCAAQBQJdMdUgCRC2MzQPtt01LwAAvQUP/RjxS411z61R2mFIjbeF\nNx62rilM5rM6t6d0th70kk5PJzivKraC2BEAr1fAaOUKa8+UAD83AVeqJgRA\nKk0AYYdIwZu3Nty/9Z8q0vMoVKJMDckUp9Sso0LFCaAC1M7UVX2lYK4TipMK\nLFUbgOcIbm0l5LVqtXm0NwJ5aPF/2vvsq9rNob5bfIIsBA+sqQiDgZKHGWlA\nVr4pcOaZPalDKNiEPySBxbtNixgyzdGJTTCdw4+vc4EN9V5Nn8hYsV3GIp96\nwpta/n5JG/n9v3OIZrSElwTP6QBbYrMO1br9/Pr/w5N4I4vh+XoJjqBudM2n\nlLn5oZY/TFMDeOtNuGpC1j0NOHaf820V4WC6wu+m1OiyDHJzI3J6nSBub8vj\nPs/cPdwFg3h0lRBbRvXyg/qo0/Y0fd2v09BsN4bE9kQna4fgL96wDoypsGM9\n+d4g/bz6kJSPJlynBhYDsa8G7R0Nu5vnzbvdM/fe4HeQRgwcoWMNno+Fo1ZV\nQ1KJIqHsZt+NQ6ReQoZd1YANVMuMSyncOEWBDA/AMnKUlkRgq57WHeI/cd9D\n2a7G36EljsUSZcqlO9DLpJFRSC9ma36uQpjVNIbGsiS7td50eONyyKnIWmb8\nRRcyHxHYjk3u6Ud20fwcJtoMFv8fQyre5ouLlSgIZqeRrkqXf9TX8mDb63KD\nMKYi\n=AUwX\n-----END PGP SIGNATURE-----\n",
+  "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: OpenPGP.js v2.6.2\nComment: https://openpgpjs.org\n\nwsFcBAEBCAAQBQJdMeAzCRC2MzQPtt01LwAAX+kQAMQFvMbecls/JjWsI0Bi\n5uklb8X/V2RXfVD5VTd+sE6oCJAMeyd5/upKXJ4ba1qIyUyfJqhEUDBBH2CN\nZJgtiob85zWUYyD9hV0ZVh9amF6Cnaf9qQRVSYiUMB7oy21ag3nks/kdLjAn\nArftAoQotWOpbsxtYqy4lnmrS4PewVe7XijK2bUtRJvDOdsZYC8RaoQUGcrU\nF6xJOQ3pJu+6DtseKm3wCnWUO1RenyZ84bzHRaTaCQEulHgB53TNRe+U3NJW\nE94mMBAEHO/a28cSUMXXSV268u2gFicBVylk9yMilaGe6/QHYxdEpJj6t9Ee\nv+kZmV54wo+WhWad+5aMGyPpBoBv1bEfn6qqUeY/n0soDLwvhbmJQ14mxhRW\nXMc9QBw3wlp/qxXOBXOqzmTnCPtp9R65zkKZsu1WC36ulW5Erl5Ema4V8pT1\nIoV/NLyICgi9HfK+727+xitUWgg2EeH5kqijZxNzB1yny2JwonJOITPLqtZS\nlgaNQvjPr3wAkbgWR1YGmIiNxUrR460L9EERCMgQ7pJHYRg/FgzT+rZYnfNJ\nwB/LFD0WF7wKmF7QwUpVslI+K50RUg3V+R9QeSPiRWJW8wUimi4aFJ7xP8IC\nWb3ZE/9REDCzRf46IuZXAAv6kxQYOarqfzmK3O3Hhn2a5M10e00klWw5AVsZ\nHy1W\n=TDWV\n-----END PGP SIGNATURE-----\n",
   "identity": {}
 }
